@@ -2,7 +2,7 @@
 Código pronto, utilize para tirar dúvidas
 */
 
-/*
+
 static void ExibirMenuConversao()
 {
     Console.Clear();

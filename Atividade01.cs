@@ -5,7 +5,7 @@ informar se o aluno foi aprovado, ficou em recuperação ou foi reprovado.
 
 Código iniciado, o método LerNota ( ) é chamado, ele leva a string como mensagem 9Nota 1:; Nota 2: ...
 */
-/*
+
 static double LerNota(string mensagem)
 {
     Console.Write(mensagem);
@@ -67,4 +67,3 @@ static void ExecutarSistema()
 }
 
 ExecutarSistema();
-*/
